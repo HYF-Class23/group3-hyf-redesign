@@ -4,29 +4,31 @@ Some boundaries around our project.
 
 ## External
 
-<!--
-  constraints coming from the outside that your team has no control over.
-  These may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+Constraints coming from the outside that our team we have no control over. These
+may include:
+
+- **Project Deadlines:** The project is constrained by a one-week timeframe.
+
+- **Complex website to rebuild on first time**
 
 ## Internal: Involuntary
 
-<!--
-  constraints that come from within your team, and you have no control over.
-  They may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+Constraints that come from within our team,we have no control over.Include:
+
+- **Individual Skill Levels:** Varied skill levels among our team members in
+  this area of coding, design, or project management, may affect the project's
+  execution and quality.
+
+- **Time Availability:** Limited availability of time due to the short duration
+  of the project and the team's ongoing studies.
 
 ## Internal: Voluntary
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+Constraints that our team decided on to help scope the project.Include:
+
+- **Code Review Checklist:** Based on protecting of main branch, sometime it is
+  difficult to check push request at time.
+
+- **Work Hours:** Due to different location of our home, the number of study
+  hours and project work hours per day are not the same.
+- **Coding Style & Conventions:**

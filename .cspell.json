@@ -16,7 +16,8 @@
     "Verwijs",
     "Todos",
     "wireframe",
-    "Vaula"
+    "Vaula",
+    "timeframe"
   ],
   "ignorePaths": [
     "node_modules/**",

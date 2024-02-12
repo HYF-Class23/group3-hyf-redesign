@@ -14,7 +14,8 @@
     "Christiaan",
     "Verwijs",
     "Todos",
-    "wireframe"
+    "wireframe",
+    "REDISIGN"
   ],
   "ignorePaths": [
     "node_modules/**",

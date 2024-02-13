@@ -1,10 +1,10 @@
-# Name of project
+# HYF Redesign
 
-> A longer description
+> This project is about redesigning the HYF website.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [HYF Redesign](#hyf-redesign)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -22,7 +22,9 @@
 
 ## General info
 
-> A short description
+> A school for empowering refugees and newcomers through software development
+> education, fostering independence, and catalyzing positive change in their
+> lives and communities.
 
 ## Screenshots
 
@@ -30,9 +32,9 @@
 
 ## Technologies
 
-- Node 14.16.0
+- HTML
 - VSC code
-- JavaScript
+- CSS
 - ...
 - ...
 

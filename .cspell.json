@@ -5,6 +5,7 @@
     "HackYourFuture",
     "Nepo",
     "Ponomarev",
+    "samir",
     "Lant",
     "Yodiz",
     "Zepel",
@@ -15,7 +16,10 @@
     "Verwijs",
     "Todos",
     "wireframe",
-    "REDISIGN"
+    "REDISIGN,
+    "Vaula",
+    "timeframe",
+    "inclusivity"
   ],
   "ignorePaths": [
     "node_modules/**",

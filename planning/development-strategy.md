@@ -1,55 +1,109 @@
-# Project Name
-
-<!-- describe your project -->
+# HYF-REDESIGN
 
 ---
 
-## Setup
+A simple little website about trees.
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+"Site 'Hack your Future Belgium' redesigned"
 
 ---
 
-<!-- copy this section once for each must-have user story -->
+## 1. Define Goals and Objectives
 
-## user story
+-[] Identify the purpose of the redesign.
 
-<!-- each issue created from this section will have the `for: user story` label -->
+-[] Determine the key goals and objectives for the new design.
 
-> "as a ... i can ... so that ..."
+-[] Understand the target audience and their needs.
 
-<!-- write any extra notes or description -->
+## 2. Conduct a Website Audit
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+-[] Review the existing website's content, structure, and design.
 
-### Logic: user story
+-[] Identify strengths and weaknesses.
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+-[] Analyze user feedback and analytics data if available.
 
-### Interface: user story
+## 3. Create a Wireframe
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+-[] Sketch a basic layout of the new design.
 
-### Interaction: user story
+-[] Define the placement of key elements like navigation, headers, and content
+areas.
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## 4. Design Mockups
 
-### Documentation: user story
+-[] Create detailed design mockups using graphic design tools
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+-[] Pay attention to color schemes, typography, and overall visual aesthetics.
+
+## 5. Select Fonts and Colors
+
+-[] Choose fonts that align with the brand and are easy to read.
+
+-[] Define a color scheme that complements the overall design and brand
+identity.
+
+## 6. Responsive Design
+
+-[] Ensure the design is responsive for various screen sizes and devices.
+
+-[] Use media queries in CSS to adapt the layout to different viewport sizes.
+
+## 7. HTML Structure
+
+-[] Create the basic HTML structure based on the wireframe.
+
+-[] Use semantic HTML tags for better accessibility and SEO.
+
+## 8. CSS Styling
+
+-[] Apply styles to the HTML elements based on the design mockups.
+
+-[] Organize styles using classes and IDs.
+
+-[] Consider using pre-processors like Sass for more efficient styling.
+
+## 9. Navigation
+
+-[] Implement a clear and intuitive navigation system.
+
+-[] Ensure consistent navigation across all pages.
+
+## 10. Content Integration
+
+-[] Migrate and format existing content or add new content.
+
+-[] Optimize images and multimedia elements for web.
+
+## 11. Testing
+
+-[] Test the website on various browsers and devices.
+
+-[] Check for responsiveness, functionality, and cross-browser compatibility.
+
+## 12. Optimization
+
+-[] Optimize code, images, and other assets for faster loading times.
+
+-[] Ensure proper SEO practices, including meta tags and structured data.
+
+## 13. User Feedback
+
+-[] Gather feedback from users during the testing phase.
+
+-[] Make necessary adjustments based on user input.
+
+## 14. Launch
+
+-[] Deploy the redesigned website to the live server.
+
+-[] Monitor for any issues post-launch.
+
+## 15. Post-Launch Maintenance
+
+-[] Regularly update content.
+
+-[] Address any issues that arise.
+
+-[] Stay informed about new design trends and technologies.

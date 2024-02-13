@@ -2,8 +2,6 @@
 
 ---
 
-A simple little website about trees.
-
 "Site 'Hack your Future Belgium' redesigned"
 
 ---

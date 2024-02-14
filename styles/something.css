@@ -1,3 +1,81 @@
-body {
-  background-color: white;
+header {
+  background-color: white; /* Set the background color of the header */
+  padding: 10px; /* Add some padding to the header */
+}
+
+.header-container {
+  display: flex; /* Use flexbox layout */
+}
+
+.logo-container {
+  flex: 1; /* The first container occupies 1 unit of space */
+  display: flex;
+  justify-content: center; /* Center the logo horizontally */
+  align-items: center; /* Center the logo vertically */
+}
+
+.logo-container img {
+  max-width: 100%; /* Ensure the logo does not exceed its container width */
+  max-height: 80px; /* Set the maximum height of the logo */
+  padding-right: 120px;
+  padding-left: 280px;
+}
+
+.navigation-container {
+  flex: 2; /* The second container occupies 2 units of space */
+  display: flex;
+  padding-right: 150px;
+  padding-left: 270px;
+  justify-content: space-between; /* Distribute the navigation links evenly */
+}
+
+.navigation-container p {
+  cursor: pointer; /* Add cursor pointer to indicate clickable */
+  color: #2859b6;
+  align-items: center;
+  font-size: 13.5px;
+}
+
+.navigation-container a {
+  text-decoration: none; /* Remove underline */
+}
+
+.navigation-container p:hover {
+  color: black; /* Change text color on hover */
+}
+
+/* Hide the dropdown content by default */
+.dropdown .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 400px;
+  padding: 12px 16px;
+  z-index: 1;
+  list-style-type: none; /* Remove default list style */
+  margin: 0; /* Remove default margin */
+  text-align: center;
+  border-radius: 5%;
+  transform: translateX(-30%);
+}
+
+.dropdown .dropdown-content li {
+  margin-bottom: 10px; /* Adjust the margin as needed */
+}
+
+/* Show the dropdown content when hovering over the paragraph */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Style the links */
+.dropdown-content li a {
+  color: #6664d4; /* Set link color */
+  text-decoration: none; /* Remove underline */
+  font-size: 13.5px;
+}
+
+/* Change link color on hover */
+.dropdown-content li a:hover {
+  color: #111113;
 }

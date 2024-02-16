@@ -75,3 +75,26 @@
 .dropdown-content li a:hover {
   color: #111113;
 }
+
+.video-container {
+  height: 460px;
+  overflow: hidden;
+  position: relative;
+  background-color: grey;
+}
+
+.video-container video {
+  position: absolute;
+  object-fit: cover;
+  opacity: 0.8;
+}
+
+.tagline {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: 30px;
+  min-width: 1023px;
+  padding-top: 160px;
+}

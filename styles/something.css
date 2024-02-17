@@ -98,3 +98,25 @@
   min-width: 1023px;
   padding-top: 160px;
 }
+
+.number-container {
+  display: flex;
+  justify-content: center;
+}
+
+.number-item {
+  width: 240px;
+  text-align: center;
+  color: #1c2294;
+  padding: 30px 35px;
+}
+
+.number {
+  font-size: 80px;
+  font-family: sans-serif;
+  margin: auto;
+}
+
+.number-p {
+  line-height: 25px;
+}

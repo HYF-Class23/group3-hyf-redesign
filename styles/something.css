@@ -121,6 +121,8 @@
   line-height: 25px;
 }
 
+/* Start of who-we-are section styles */
+
 .container {
   display: flex;
   flex-direction: column;
@@ -177,6 +179,8 @@
 .paragraph {
   font-size: 12px;
 }
+
+/* End of who-we-are section styles */
 
 h2 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;

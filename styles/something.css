@@ -340,3 +340,29 @@ iframe {
   width: 100%;
   height: 100%;
 }
+
+.newsletter-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #1a2df3;
+  padding-bottom: 50px;
+}
+
+h3 {
+  align-self: center;
+  font-size: 35px;
+  padding-top: 50px;
+}
+
+.newsletter-fname .newsletter-lname .newsletter-email {
+  border-bottom: 3px solid #1a2df3;
+  width: 150px;
+  border-radius: 0px;
+}
+
+.newsletter-button {
+  color: #1a2df3;
+  font-size: 20px;
+}

@@ -2,15 +2,20 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- Has meeting discussions every day at evening at 6 pm
+- Try yourself for 15 minutes then ask your colleagues
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day |     How      | The topic of discussion |
+| --- | :----------: | ----------------------- |
+| M   | Google Meets | LET'S DO PLANNING       |
+| T   | Google Meets | TALK ABOUT PROJECT      |
+| W   | Google Meets | TALK ABOUT PROJECT      |
+| T   | Google Meets | TALK ABOUT PROJECT      |
+| F   | Google Meets | TALK ABOUT PROJECT      |
 
 ## Communication Channels
 
@@ -28,17 +33,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| Ernesto | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Felix   | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| King    | 18 - 20 | 18 - 20 |  18 - 20  | 18 - 20  | 18 - 20 | 18 - 20  | 18 - 20 |
+| Vaula   | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Ernesto: 5h; extra comments? All the wednesday has Dutch class in the morning
+- Felix: 5H;
+- King: 5h;
+- Vaula: 5h;
 
 ## Asking for Help
 

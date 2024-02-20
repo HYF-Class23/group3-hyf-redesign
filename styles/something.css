@@ -16,7 +16,7 @@ body {
   text-align: center;
   border: 2px solid #ddd;
   border-radius: 10px;
-  background-color: #4fc24f; /* Same background color for all boxes */
+  background-color: rgb(85 89 175); /* Same background color for all boxes */
   box-shadow: 1px 3px 8px #000;
   transition: all 0.3s ease;
 }

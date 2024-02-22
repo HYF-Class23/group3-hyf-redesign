@@ -21,7 +21,9 @@
     "timeframe",
     "inclusivity",
     "Filip",
-    "Fatma"
+    "Fatma",
+    "fname",
+    "lname"
   ],
   "ignorePaths": [
     "node_modules/**",

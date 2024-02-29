@@ -23,7 +23,8 @@
     "Filip",
     "Fatma",
     "fname",
-    "lname"
+    "lname",
+    "Tervueren"
   ],
   "ignorePaths": [
     "node_modules/**",
